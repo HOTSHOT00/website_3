@@ -1,0 +1,22 @@
+{
+    "animals": [
+        {
+            "animal": "Sambar Deer",
+            "scientific_name": "(Rusa unicolor)",
+            "description": "The Sambar Deer (Rusa unicolor) is a captivating and robust species found in the diverse ecosystems of Sri Lanka. With a prominent and muscular build, these large herbivores are easily recognizable by their dark brown to chestnut-colored coat, which provides effective camouflage in the island's lush forests. Known for their impressive antlers, primarily borne by males, Sambar Deer inhabit various habitats, including dense woodlands, grasslands, and wetlands. In Sri Lanka, these majestic creatures are not only a significant component of the country's rich biodiversity but also play a crucial role in maintaining ecological balance. Despite facing threats such as habitat loss and poaching, conservation efforts are underway to protect and preserve the Sambar Deer population in Sri Lanka, ensuring the continuation of their vital role in the island's natural heritage.",
+            "habitat": "Sri Lanka's unique ecological tapestry is reflected in the variety of habitats that the Sambar Deer calls home. These hardy herbivores demonstrate their adaptability to a variety of environments by living in wetlands, grasslands, and deep tropical forests. The Sambar Deer finds plenty of food and shelter in Sri Lanka's lush and biodiverse surroundings."
+        },
+        {
+            "animal": "Macaques",
+            "scientific_name": "(Macaca)",
+            "description": " With their lively presence, macaques, especially the Toque Macaque (Macaca sinica), add to Sri Lanka's rich biodiversity. These medium-sized monkeys are frequently found in a variety of settings, from lush woods to cultural places. They are easily recognized by their unique tuft of hair. They exhibit complex social behaviors and are renowned for their capacity to adapt to both natural and human-altered surroundings. ",
+            "habitat": "Macaques in Sri Lanka inhabit a range of environments, including dense rainforests, dry woodlands, and areas near human settlements. Their adaptability allows them to thrive in diverse habitats, making them a common presence in cultural sites and even urban areas. This versatility, while contributing to their widespread distribution, also presents challenges in terms of conservation and coexistence with humans."
+        },
+        {
+            "animal": "Sri lankan owl",
+            "scientific_name": "(Strigiformes)",
+            "description": "The avian diversity of Sri Lanka includes several intriguing species of owls, adding a touch of mystique to the island's wildlife. Among them, the Brown Fish Owl (Ketupa zeylonensis) is a notable inhabitant. With its distinctive deep hoots resonating across riverbanks and wetlands, this owl is often found near water sources, preying on fish and other aquatic creatures. The cryptic plumage of the Brown Fish Owl provides effective camouflage amidst the lush vegetation of Sri Lanka's landscapes.",
+            "habitat": "In Sri Lanka, owls, including the Brown Fish Owl, inhabit a variety of ecosystems. These captivating birds are often found near riverbanks and wetlands, where their haunting hoots resonate in the night air. The Brown Fish Owl's preferred habitat includes areas with water sources, allowing them to hunt for fish and other aquatic prey."
+        }
+    ]
+}
